@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.rest</groupId>
-    <artifactId>vccs-ui</artifactId>
+    <artifactId>rest-with-swagger</artifactId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
