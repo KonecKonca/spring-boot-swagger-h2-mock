@@ -1,6 +1,5 @@
 
 
-
 # Database endpoint:
      - here can be queried h2 datatabase
     http://localhost:8080/h2-console/
