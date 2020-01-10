@@ -7,8 +7,8 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @SpringBootApplication
 @EnableTransactionManagement
-public class VccsMainApp extends SpringBootServletInitializer {
+public class AppRunner extends SpringBootServletInitializer {
     public static void main(String[] args) {
-        SpringApplication.run(VccsMainApp.class, args);
+        SpringApplication.run(AppRunner.class, args);
     }
 }
