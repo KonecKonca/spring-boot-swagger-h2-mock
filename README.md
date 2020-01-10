@@ -10,6 +10,7 @@
     http://localhost:8080/swagger-ui.html#
     
 # Example insert/update query body:
+        - Will insert 2 clients into database
     [
         {
           "clientId": 1,
