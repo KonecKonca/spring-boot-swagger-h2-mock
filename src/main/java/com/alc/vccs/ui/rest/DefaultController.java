@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DefaultController {
 
     @GetMapping(value = "/", produces = {MediaType.APPLICATION_JSON_VALUE, MediaType.APPLICATION_XML_VALUE})
-    public Client findClientById() {
+    public Client getDefaultClient() {
         return Clients.getEmptyClient();
     }
 
