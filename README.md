@@ -2,11 +2,11 @@
 
 # Database endpoint:
      - here can be queried h2 datatabase
-    http://localhost:8080/h2-console/
+    http://localhost:8088/h2-console/
     
 # Swagger:
         - here we can sent Rest requests
-    http://localhost:8080/swagger-ui.html#
+    http://localhost:8088/swagger-ui.html#
     
 # Example insert/update query body:
         - Will insert 2 clients into database
